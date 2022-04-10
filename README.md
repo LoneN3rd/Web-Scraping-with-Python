@@ -15,4 +15,4 @@ your team members to further build a job aggregator.
 In this project, we will scrape for data from the following technology webpages:
   - PigiaMe: https://www.pigiame.co.ke/it-software-jobs
   - MyJobMag: https://www.myjobmag.co.ke/jobs-by-field/information-technology
-  - KenyaJob:https://www.kenyajob.com/job-vacancies-search-kenya?f%5B0%5D=im_field_offre_secteur%3A133
+  - KenyaJob: https://www.kenyajob.com/job-vacancies-search-kenya?f%5B0%5D=im_field_offre_secteur%3A133
